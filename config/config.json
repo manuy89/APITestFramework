@@ -1,0 +1,13 @@
+{
+  "timeout": 10,
+  "endpoints": {
+    "auth": {
+      "login": "/login",
+      "register": "/register"
+    },
+    "users": {
+      "base": "/users",
+      "single": "/users/{id}"
+    }
+  }
+}
