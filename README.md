@@ -93,11 +93,13 @@ cp .env.example .env
 
 ```
 API_KEY=your_api_key_here
-API_EMAIL=your_email_here
-API_PASSWORD=your_password_here
+API_EMAIL=eve.holt@reqres.in
+API_PASSWORD=cityslicka
 ```
 
 > Get a free API key from [app.reqres.in/api-keys](https://app.reqres.in/api-keys)
+
+> `API_EMAIL` and `API_PASSWORD` are predefined ReqRes test credentials and work out of the box. Only `API_KEY` needs to be replaced with your own.
 
 ### 5. Run the tests
 
