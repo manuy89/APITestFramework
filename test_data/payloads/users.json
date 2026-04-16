@@ -1,0 +1,13 @@
+{
+  "create_user": {
+    "name": "John",
+    "job": "Engineer"
+  },
+  "update_user": {
+    "name": "John Updated",
+    "job": "Senior Engineer"
+  },
+  "patch_user": {
+    "job": "Lead Engineer"
+  }
+}
